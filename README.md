@@ -1,4 +1,6 @@
-# Soccer-Twos Starter Kit
+# Group 60 Agents
+All three agents, train_ppo_agent, train_ppo_2_agent, and train_ppo_3_agent are trained in the train_ppo.ipynb notebook under each of their agent folders, and the reward shaping can be found in the info_reward() function in the notebook.
+## Soccer-Twos Starter Kit
 
 Example training/testing scripts for the Soccer-Twos environment. This starter code is modified from the example code provided in https://github.com/bryanoliveira/soccer-twos-starter.
 
